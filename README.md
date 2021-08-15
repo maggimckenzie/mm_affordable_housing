@@ -1,4 +1,6 @@
-## Affordable Housing in Davidson County
+# Affordable Housing in Davidson County
+
+NSS Group Project | All work shown here addresses Data Question 3 below on short-term rentals in Davidson County, shown on slides 9-15 of the [group presentation](https://docs.google.com/presentation/d/1HXmrIHBnbMyCL53HQRva7tJTM2jBXh1TZq0Ixmpu-50/edit#slide=id.gd7cc4578e4_1_153).
 
 An introduction to the terminology surrounding the issue of affordable housing can be found at [the website of the Mayor's Office](https://www.nashville.gov/Mayors-Office/Economic-Opportunity/Affordable-Housing-Basics.aspx). For this project, we will use the terms and definitions listed there. You can also see the Housing Nashville report contained in this repository as a pdf for further background information.
 
